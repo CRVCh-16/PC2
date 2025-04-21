@@ -1,2 +1,2 @@
 # PC2
-Esta es la resolución de la PC2.
+Esta es la resolución de la PC2 (https://crvch-16.github.io/PC2/). En esta práctica, se observa la limpieza y formateo de un dataframe. La limpieza incluye eliminar filas y columnas innecesarias, además de darle un orden a los valores de celdas. También incluye cambiar el nombre de las columnas y modificar por si hay algún símbolo raro. El formateo incluye hacer que los datos sean numéricos sean tipo float. Ello se comprueba con la función describe().
